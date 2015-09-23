@@ -1,0 +1,3 @@
+int bagWeight = 50;
+boolean bagFee = bagWeight >= 50;
+System.out.println(bagFee);

@@ -1,3 +1,3 @@
-int bagWeight = 38;
-boolean bagFee = bagWeight >= 50;
-System.out.println(bagFee);
+Passenger newPassgener = new Passenger();
+//newPassgener.name = "My Name";
+System.out.println(newPassgener.getName());
